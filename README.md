@@ -5,6 +5,8 @@ in this repository, the visualization of VGG16, MobileNet and Inception V3 using
 ![Occlusion](./images/Occlusion-Viz-of-IN-0.jpg)
 ![Integrated Gradients](./images/IG-Viz-of-IN-0.jpg)
 
+<img src="./images/GradCAM-Viz-of-IN-0.jpg" width="300">
+
 Here is a breakdown of each notebook:
 
 ### Thesis_Model_Pipeline.ipynb
