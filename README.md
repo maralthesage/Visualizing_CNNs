@@ -1,6 +1,10 @@
 # visualizing_cnns
 in this repository, the visualization of VGG16, MobileNet and Inception V3 using Grad-CAM, Occlusion analysis and Integrated Gradients is available.
 
+![GradCAM](https://github.com/maralthesage/visualizing_cnns/blob/main/images/GradCAM-Viz-of-IN-0.jpg)
+![Occlusion](https://github.com/maralthesage/visualizing_cnns/blob/main/images/Occlusion-Viz-of-IN-0.jpg)
+![Integrated Gradients](https://github.com/maralthesage/visualizing_cnns/blob/main/images/IG-Viz-of-IN-0.jpg)
+
 Here is a breakdown of each notebook:
 
 ### Thesis_Model_Pipeline.ipynb
