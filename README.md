@@ -3,11 +3,14 @@ In this repository, the visualization of VGG16, MobileNet and Inception V3 using
 
 <p align="center">
 <img src="./images/GradCAM-Viz-of-IN-0.jpg" width="400">
-  
+</p>
+<p align="center">
 <img src="./images/Occlusion-Viz-of-IN-0.jpg" width="400">
-  
+</p>
+<p align="center">
 <img src="./images/IG-Viz-of-IN-0.jpg" width="400">
 </p>
+
 
 Here is a breakdown of each notebook:
 
